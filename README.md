@@ -18,10 +18,11 @@ I am currently (as of 2020) a graduate student at Birla Intitute of Technology, 
 
 ## 🌱 I’m currently learning...
 
-1. WebGL (specifically version 2)
-2. Webassembly
-3. Parallel Programming
-4. ... _suggest something?_ ...
+1. Interpreters and Compilers
+2. WebGL (specifically version 2)
+3. Webassembly
+4. Parallel Programming
+5. ... _suggest something?_ ...
 
 ## 📫 How to reach me...
 
