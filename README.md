@@ -33,8 +33,8 @@ I am currently (as of 2020) a graduate student at Birla Intitute of Technology, 
 
 If you think my work has helped you, please consider supporting me on Ko-fi or Patreon.
 
-[<img style="height: 36px;" height="36" src="kofi.webp">](https://ko-fi.com/hungrybluedev)
-[<img style="height: 36px;" height="36"  src="patreon.webp">](https://www.patreon.com/hungrybluedev)
+[<img style="height: 36px;" height="36" src="https://raw.githubusercontent.com/hungrybluedev/hungrybluedev/master/kofi.webp">](https://ko-fi.com/hungrybluedev)
+[<img style="height: 36px;" height="36"  src="https://raw.githubusercontent.com/hungrybluedev/hungrybluedev/master/patreon.webp">](https://www.patreon.com/hungrybluedev)
 
 ## More Info...
 
