@@ -2,7 +2,7 @@
 
 ## ℹ Background
 
-I have an Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra. The topic of my thesis was performance and evaluation of pseudorandom number generators in the V Programming Language.
+I am a postgraduate student Computing Science at the University of Glasgow (2022-23). I have an Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra (2017-2022). The topic of my thesis was performance and evaluation of pseudorandom number generators in the V Programming Language.
 
 ## 💬 Ask me about...
 
