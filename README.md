@@ -13,9 +13,10 @@ I am a postgraduate student Computing Science at the University of Glasgow (2022
 5. Mathematics (I prefer pure math)
 6. Typescript (not Javascript 🙃)
 7. C (not C++ 😛)
-8. Pseudorandom-number generators (my work: [1](https://github.com/vlang/v/pull/5143) and [2](https://github.com/vlang/v/pull/5289))
-9. Functional Programming
-10. Anything related to theoretical computer science
+8. Java (I have several years of experience).
+9. Pseudorandom-number generators (my work: [1](https://github.com/vlang/v/pull/5143) and [2](https://github.com/vlang/v/pull/5289))
+10. Functional Programming
+11. Anything related to theoretical computer science
 
 
 ## 🌱 I’m currently learning...
