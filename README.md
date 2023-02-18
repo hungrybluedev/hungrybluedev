@@ -26,7 +26,8 @@ I am a postgraduate student Computing Science at the University of Glasgow (2022
 
 ## 📫 How to reach me...
 
-* Mostly Twitter ([@hungrybluedev](https://twitter.com/hungrybluedev/))
+* Twitter ([@hungrybluedev](https://twitter.com/hungrybluedev/))
+* Mastodon (<a rel="me" href="https://mstdn.social/@hungrybluedev">@hungrybluedev@mstdn.social</a>)
 * I have a [contact page](https://hungrybluedev.in/contact/) on my website.
 
 ## 🤝🏼 Support me
