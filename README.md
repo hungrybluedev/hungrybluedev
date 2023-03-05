@@ -35,8 +35,11 @@ I am a postgraduate student Computing Science at the University of Glasgow (2022
 
 If you like my work, considering [Sponsoring me on GitHub](https://github.com/sponsors/hungrybluedev)!
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/hungrybluedev)](https://github.com/sponsors/hungrybluedev)
+[![GitHub Sponsors](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/hungrybluedev)
 
+You can also support me on [Ko-fi](https://ko-fi.com/hungrybluedev)!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I31TIDW)
 
 ## 📃 More Info...
 
