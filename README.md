@@ -2,7 +2,9 @@
 
 ## ℹ Background
 
-I am a postgraduate student Computing Science at the University of Glasgow (2022-23). I have an Integrated MSc in Mathematics and Computing from Birla Institute of Technology, Mesra (2017-2022). The topic of my thesis was performance and evaluation of pseudorandom number generators in the V Programming Language.
+I am a web developer for [Component Sense](https://www.componentsense.com/). Another project I am associated with is the [V Programming Language](https://vlang.io) where I have been awarded the role of an official developer.
+
+I am a postgraduate student Computing Science at the University of Glasgow (2022-23). I have an Integrated MSc in Mathematics and Computing from Birla Institute of Technology (BIT), Mesra (2017-2022). The topic of my thesis at BIT was performance and evaluation of pseudorandom number generators in the V Programming Language.
 
 ## 💬 Ask me about...
 
@@ -13,10 +15,14 @@ I am a postgraduate student Computing Science at the University of Glasgow (2022
 5. Mathematics (I prefer pure math)
 6. Typescript (not Javascript 🙃)
 7. C (not C++ 😛)
-8. Java (I have several years of experience).
-9. Pseudorandom-number generators (my work: [1](https://github.com/vlang/v/pull/5143) and [2](https://github.com/vlang/v/pull/5289))
-10. Functional Programming
-11. Anything related to theoretical computer science
+8. PHP (at work)
+9. Java (I have several years of experience).
+10. Pseudorandom-number generators (my work: [1](https://github.com/vlang/v/pull/5143) and [2](https://github.com/vlang/v/pull/5289))
+11. Typestate analysis (thesis project at UofG: [typestate_v](https://github.com/hungrybluedev/typestate_v/))
+12. Templating engines (like mine: [_whisker_](https://github.com/hungrybluedev/whisker))
+13. Functional Programming
+14. Anything related to theoretical computer science
+15. Topics on Discrete Mathematics and Applied Mathematical Modelling
 
 
 ## 🌱 I’m currently learning...
@@ -27,11 +33,13 @@ I am a postgraduate student Computing Science at the University of Glasgow (2022
 
 ## 📫 How to reach me...
 
-* Twitter ([@hungrybluedev](https://twitter.com/hungrybluedev/))
-* Mastodon ([@hungrybluedev@mstdn.social](https://mstdn.social/@hungrybluedev))
+* Threads ([@hungrybluedev](https://www.threads.net/@hungrybluedev))
+* Discord (I'm lurking around in the [V Discord Server](https://discord.gg/vlang))
 * I have a [contact page](https://hungrybluedev.in/contact/) on my website.
 
 ## 🤝🏼 Support me
+
+If you want to buy traceable unused electronic components at huge discounts, or want to get rid of your excess stock, contact [Component Sense](https://www.componentsense.com/) and let them know I (Subhomoy) sent you!
 
 If you like my work, considering [Sponsoring me on GitHub](https://github.com/sponsors/hungrybluedev)!
 
