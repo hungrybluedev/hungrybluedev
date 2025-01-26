@@ -8,7 +8,7 @@ Currently:
 
 - 🏢 Senior Software Developer at [Component Sense](https://www.componentsense.com/)
 - 📚 Founder of [Coders’ Compass Publishing](https://coderscompass.org)
-- 💻 Official Developer for the [V Programming Language](https://vlang.io)
+- 💻 Open Source Contributor to the [V Programming Language](https://vlang.io)
 
 ## 🎓 Academic Background
 
